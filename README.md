@@ -7,8 +7,8 @@ komutları yazın ve size söylediği talimatlara uyun yeter :)
 
 # KOMUTLAR
 
-wget -O build.sh https://raw.githubusercontent.com/24FeiFei1/win11/main/build.sh
+wget -O run.sh https://raw.githubusercontent.com/24FeiFei1/win11/main/run.sh
 
-chmod +x build.sh
+chmod +x run.sh
 
-./build.sh
+./run.sh
