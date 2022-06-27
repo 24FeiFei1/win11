@@ -28,4 +28,4 @@ echo User: Administrator
 echo Password: Thuonghai001
 echo Script by FeiFei1
 echo Wait 2-4m VM boot up before connect. 
-echo 7/24
+echo FIN\
